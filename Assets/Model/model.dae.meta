@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: dc9fee265901bee44abad96caf0cac19
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ID100
+    100002: ID106
+    100004: ID112
+    100006: ID118
+    100008: ID124
+    100010: ID130
+    100012: ID136
+    100014: ID142
+    100016: ID148
+    100018: ID154
+    100020: ID160
+    100022: ID166
+    100024: ID172
+    100026: ID193
+    100028: ID28
+    100030: ID34
+    100032: ID40
+    100034: ID46
+    100036: ID52
+    100038: ID58
+    100040: ID64
+    100042: ID70
+    100044: ID76
+    100046: ID82
+    100048: ID88
+    100050: ID94
+    100052: instance_0
+    100054: instance_1
+    100056: instance_2
+    100058: instance_3
+    100060: instance_4
+    100062: instance_5
+    100064: instance_6
+    100066: instance_7
+    100068: Light_Cap
+    100070: //RootNode
+    100072: skp_camera_Last_Saved_SketchUp_View
+    100074: Support_Rod
+    100076: Support_Rod 1
+    100078: Support_Rod 2
+    100080: Support_Rod 3
+    100082: Support_Rod 4
+    100084: Support_Rod 5
+    100086: Traditional_Stand
+    400000: ID100
+    400002: ID106
+    400004: ID112
+    400006: ID118
+    400008: ID124
+    400010: ID130
+    400012: ID136
+    400014: ID142
+    400016: ID148
+    400018: ID154
+    400020: ID160
+    400022: ID166
+    400024: ID172
+    400026: ID193
+    400028: ID28
+    400030: ID34
+    400032: ID40
+    400034: ID46
+    400036: ID52
+    400038: ID58
+    400040: ID64
+    400042: ID70
+    400044: ID76
+    400046: ID82
+    400048: ID88
+    400050: ID94
+    400052: instance_0
+    400054: instance_1
+    400056: instance_2
+    400058: instance_3
+    400060: instance_4
+    400062: instance_5
+    400064: instance_6
+    400066: instance_7
+    400068: Light_Cap
+    400070: //RootNode
+    400072: skp_camera_Last_Saved_SketchUp_View
+    400074: Support_Rod
+    400076: Support_Rod 1
+    400078: Support_Rod 2
+    400080: Support_Rod 3
+    400082: Support_Rod 4
+    400084: Support_Rod 5
+    400086: Traditional_Stand
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: Traditional_Stand_Color_006
+    2100002: Support_Rod_0134_Dim_Gray
+    2100004: Light_Cap_Image1
+    2300000: ID100
+    2300002: ID106
+    2300004: ID112
+    2300006: ID118
+    2300008: ID124
+    2300010: ID130
+    2300012: ID136
+    2300014: ID142
+    2300016: ID148
+    2300018: ID154
+    2300020: ID160
+    2300022: ID166
+    2300024: ID172
+    2300026: ID28
+    2300028: ID34
+    2300030: ID40
+    2300032: ID46
+    2300034: ID52
+    2300036: ID58
+    2300038: ID64
+    2300040: ID70
+    2300042: ID76
+    2300044: ID82
+    2300046: ID88
+    2300048: ID94
+    2300050: Light_Cap
+    2300052: Support_Rod
+    2300054: Support_Rod 1
+    2300056: Support_Rod 2
+    2300058: Support_Rod 3
+    2300060: Support_Rod 4
+    2300062: Support_Rod 5
+    2300064: Traditional_Stand
+    3300000: ID100
+    3300002: ID106
+    3300004: ID112
+    3300006: ID118
+    3300008: ID124
+    3300010: ID130
+    3300012: ID136
+    3300014: ID142
+    3300016: ID148
+    3300018: ID154
+    3300020: ID160
+    3300022: ID166
+    3300024: ID172
+    3300026: ID28
+    3300028: ID34
+    3300030: ID40
+    3300032: ID46
+    3300034: ID52
+    3300036: ID58
+    3300038: ID64
+    3300040: ID70
+    3300042: ID76
+    3300044: ID82
+    3300046: ID88
+    3300048: ID94
+    3300050: Light_Cap
+    3300052: Support_Rod
+    3300054: Support_Rod 1
+    3300056: Support_Rod 2
+    3300058: Support_Rod 3
+    3300060: Support_Rod 4
+    3300062: Support_Rod 5
+    3300064: Traditional_Stand
+    4300000: Traditional_Stand
+    4300002: ID28
+    4300004: ID34
+    4300006: ID40
+    4300008: ID46
+    4300010: ID52
+    4300012: ID58
+    4300014: ID64
+    4300016: ID70
+    4300018: ID76
+    4300020: ID82
+    4300022: ID88
+    4300024: ID94
+    4300026: ID100
+    4300028: ID106
+    4300030: ID112
+    4300032: ID118
+    4300034: ID124
+    4300036: ID130
+    4300038: ID136
+    4300040: ID142
+    4300042: ID148
+    4300044: ID154
+    4300046: ID160
+    4300048: ID166
+    4300050: ID172
+    4300052: Support_Rod
+    4300054: Light_Cap
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
