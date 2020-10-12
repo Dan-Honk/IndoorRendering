@@ -6,15 +6,34 @@ ModelImporter:
     100000: group_0
     100002: //RootNode
     100004: skp_camera_Last_Saved_SketchUp_View
+    100006: Component_1
+    100008: instance_0
+    100010: ID19
     400000: group_0
     400002: //RootNode
     400004: skp_camera_Last_Saved_SketchUp_View
+    400006: Component_1
+    400008: instance_0
+    400010: ID19
     2000000: skp_camera_Last_Saved_SketchUp_View
     2100000: KARE-52063-1400x1400
     2100002: material
+    2100004: KARE-52273-1400x1400_1
+    2100006: KARE-52201-1
+    2100008: Color_M08
+    2100010: _52059
     2300000: group_0
+    2300002: Component_1
+    2300004: //RootNode
+    2300006: ID19
     3300000: group_0
+    3300002: Component_1
+    3300004: //RootNode
+    3300006: ID19
     4300000: group_0
+    4300002: Component_1
+    4300004: SketchUp
+    4300006: ID19
   externalObjects: {}
   materials:
     importMaterials: 1
